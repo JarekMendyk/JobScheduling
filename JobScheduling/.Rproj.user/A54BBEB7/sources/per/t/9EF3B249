@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507037401327.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "755396731",
+    "id" : "9EF3B249",
+    "lastKnownWriteTime" : 1507108630,
+    "last_content_update" : 1507108630296,
+    "path" : "~/GitHub/JobScheduling/JobScheduling/job_scheduling_notes.Rmd",
+    "project_path" : "job_scheduling_notes.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "16,3",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

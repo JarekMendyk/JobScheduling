@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507037742602.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DCC822BF",
+    "lastKnownWriteTime" : 8019274207767129205,
+    "last_content_update" : 1507037742602,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A5123F9F",
+        "caption" : "schedulingData",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=schedulingData&cache_key=A5123F9F",
+        "displayedObservations" : 4331,
+        "environment" : "",
+        "object" : "schedulingData",
+        "preview" : 0,
+        "totalObservations" : 4331,
+        "variables" : 8
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
